@@ -1,0 +1,6 @@
+function (req, res) {
+	res.json({
+		name: "hola"
+	})
+	
+}
